@@ -1,0 +1,6 @@
+facebook.com
+google.com
+amazon.com
+youtube.com
+python.org
+automatetheboringstuff.com
